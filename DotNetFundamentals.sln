@@ -7,10 +7,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{BBB061
 	ProjectSection(SolutionItems) = preProject
 		0.01_helloworld.html = 0.01_helloworld.html
 		0.02_hp_tags.html = 0.02_hp_tags.html
+		0.03_lists.html = 0.03_lists.html
+		0.04_links.html = 0.04_links.html
+		0.05_images.html = 0.05_images.html
+		0.06_tables.html = 0.06_tables.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{753AF02D-875D-4C0E-903F-0E8700C654A4}"
+	ProjectSection(SolutionItems) = preProject
+		img\fractal_10.jpg = img\fractal_10.jpg
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{753AF02D-875D-4C0E-903F-0E8700C654A4} = {BBB06136-19CE-4C50-B1B2-D78D68BC0DC5}
 	EndGlobalSection
 EndGlobal
